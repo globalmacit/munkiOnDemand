@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>OnDemand</key>
+	<true/>
+	<key>catalogs</key>
+	<array>
+		<string>production</string>
+	</array>
+	<key>category</key>
+	<string>Printers</string>
+	<key>description</key>
+	<string>REPLACE</string>
+	<key>display_name</key>
+	<string>Install REPLACE WITH PRINTER NAME Presets</string>
+	<key>icon_name</key>
+	<string>Printer.png</string>
+	<key>minimum_os_version</key>
+	<string>10.10.0</string>
+    <key>installer_type</key>
+    <string>nopkg</string>
+	<key>name</key>
+	<string>RRPLACE</string>
+	<key>preinstall_script</key>
+	<string>REPLACE WITH SCRIPT</string>
+	<key>version</key>
+	<string>1.0.0</string>
+</dict>
+</plist>
