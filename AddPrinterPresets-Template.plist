@@ -11,17 +11,17 @@
 	<key>category</key>
 	<string>Printers</string>
 	<key>description</key>
-	<string>REPLACE</string>
+	<string>Installing this item will add the printer presets for the REPLACE to your user account for advanced print functions.</string>
 	<key>display_name</key>
 	<string>Install REPLACE WITH PRINTER NAME Presets</string>
 	<key>icon_name</key>
 	<string>Printer.png</string>
 	<key>minimum_os_version</key>
-	<string>10.10.0</string>
+	<string>10.12.0</string>
     <key>installer_type</key>
     <string>nopkg</string>
 	<key>name</key>
-	<string>RRPLACE</string>
+	<string>REPLACE</string>
 	<key>preinstall_script</key>
 	<string>REPLACE WITH SCRIPT</string>
 	<key>version</key>
